@@ -87,7 +87,6 @@ function generateKeyPair() {
 }
 
 
-
 // Define the encryption function
 function encrypt(publicKey, message) {
     // Choose a random number k between 1 and the prime number p
